@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Walkthrough-Demo</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="walkthrough_1_title">Facebook</string>
+    <string name="walkthrough_2_title">Youtube</string>
+    <string name="walkthrough_3_title">Twitter</string>
+
+    <string name="walkthrough_1_details">Facebook is a corporation and an online social networking service.</string>
+    <string name="walkthrough_2_details">YouTube is a global video-sharing website.</string>
+    <string name="walkthrough_3_details">Twitter is an online social networking service that enables users to send and read short 140-character messages called "tweets".</string>
+
+
+
+</resources>

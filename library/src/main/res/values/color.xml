@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="blue">#0071dd</color>
+    <color name="navy">#273c50</color>
+    <color name="calypso">#296379</color>
+    <color name="breaker_bay">#5EA2A5</color>
+    <color name="fuschia">#4D2D3C</color>
+    <color name="walkthrough_title">#0071dd</color>
+    <color name="walkthrough_details">#273c51</color>
+</resources>
