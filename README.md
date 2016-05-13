@@ -1,6 +1,8 @@
 # Walkthrough
 A simple library to build a simple walkthrough activiy.
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Walkthrough-green.svg?style=true)](https://android-arsenal.com/details/1/3582)
+
 ## Target platforms
 API level 14 or later
 
